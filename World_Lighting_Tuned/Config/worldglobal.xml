@@ -13,6 +13,4 @@
 	<set xpath="worldglobal/environment/property[@name='ambientInsideGroundScale']/@value">.03,.055</set>
 	<set xpath="worldglobal/environment/property[@name='ambientInsideSkyScale']/@value">.4,.16</set>
 
-	<set xpath="worldglobal/environment/property[@name='fogPower']/@value">1, 1</set>
-
 </configs>
