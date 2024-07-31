@@ -1,15 +1,18 @@
 <configs>
 
-	<set xpath="worldglobal/environment/property[@name='ambientEquatorScale']/@value">0.5,0.55</set>
-	<set xpath="worldglobal/environment/property[@name='ambientGroundScale']/@value">0.25,0.25</set>
-	<set xpath="worldglobal/environment/property[@name='ambientSkyScale']/@value">0.35,0.25</set>
+	<set xpath="worldglobal/environment/property[@name='ambientEquatorScale']/@value">.48,.61</set>
+	<set xpath="worldglobal/environment/property[@name='ambientGroundScale']/@value">.05,.1</set>
+	<set xpath="worldglobal/environment/property[@name='ambientSkyScale']/@value">.37,.51</set>
+	<set xpath="worldglobal/environment/property[@name='ambientSkyDesat']/@value">1,1</set>
 
-	<set xpath="worldglobal/environment/property[@name='ambientMoon']/@value">0.3,0.15</set>
-	<set xpath="worldglobal/environment/property[@name='ambientInsideSpeed']/@value">0.7</set>
-	<set xpath="worldglobal/environment/property[@name='ambientInsideThreshold']/@value">0.005</set>
+	<set xpath="worldglobal/environment/property[@name='ambientMoon']/@value">.3,.15</set>
+	<set xpath="worldglobal/environment/property[@name='ambientInsideSpeed']/@value">.3</set>
+	<set xpath="worldglobal/environment/property[@name='ambientInsideThreshold']/@value">.01</set>
 
-	<set xpath="worldglobal/environment/property[@name='ambientInsideEquatorScale']/@value">0.5,0.45</set>
-	<set xpath="worldglobal/environment/property[@name='ambientInsideGroundScale']/@value">0.1,0.2</set>
-	<set xpath="worldglobal/environment/property[@name='ambientInsideSkyScale']/@value">0.15,0.2</set>
+	<set xpath="worldglobal/environment/property[@name='ambientInsideEquatorScale']/@value">.48,.51</set>
+	<set xpath="worldglobal/environment/property[@name='ambientInsideGroundScale']/@value">.03,.055</set>
+	<set xpath="worldglobal/environment/property[@name='ambientInsideSkyScale']/@value">.4,.16</set>
+
+	<set xpath="worldglobal/environment/property[@name='fogPower']/@value">1, 1</set>
 
 </configs>
