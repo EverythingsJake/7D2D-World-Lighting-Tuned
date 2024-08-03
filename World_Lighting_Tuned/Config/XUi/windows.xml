@@ -1,0 +1,7 @@
+<World_Lighting_Tuned>
+    <append xpath="/windows">
+        <window name="wltSunglasses" depth="-150" width="3900" height="2200" >
+            <sprite name="aviators" color="1,1,1,105" pivot="center"/>
+        </window>
+    </append>
+</World_Lighting_Tuned>

@@ -1,16 +1,22 @@
 <configs>
 
-	<set xpath="worldglobal/environment/property[@name='ambientEquatorScale']/@value">.48,.61</set>
-	<set xpath="worldglobal/environment/property[@name='ambientGroundScale']/@value">.05,.1</set>
-	<set xpath="worldglobal/environment/property[@name='ambientSkyScale']/@value">.37,.51</set>
+	<set xpath="worldglobal/environment/property[@name='ambientEquatorScale']/@value">.49,.59</set>
+	<!-- <set xpath="worldglobal/environment/property[@name='ambientEquator']/@value">.48,.61</set> -->
+	<set xpath="worldglobal/environment/property[@name='ambientGroundScale']/@value">.037,.15</set>
+	<!-- <set xpath="worldglobal/environment/property[@name='ambientGround']/@value">.05,.1</set> -->
+	<set xpath="worldglobal/environment/property[@name='ambientSkyScale']/@value">.365,.53</set>
+	<!-- <set xpath="worldglobal/environment/property[@name='ambientSky']/@value">.34,.51</set> -->
 	<set xpath="worldglobal/environment/property[@name='ambientSkyDesat']/@value">1,1</set>
 
 	<set xpath="worldglobal/environment/property[@name='ambientMoon']/@value">.3,.15</set>
 	<set xpath="worldglobal/environment/property[@name='ambientInsideSpeed']/@value">.3</set>
 	<set xpath="worldglobal/environment/property[@name='ambientInsideThreshold']/@value">.01</set>
 
-	<set xpath="worldglobal/environment/property[@name='ambientInsideEquatorScale']/@value">.48,.51</set>
-	<set xpath="worldglobal/environment/property[@name='ambientInsideGroundScale']/@value">.03,.055</set>
-	<set xpath="worldglobal/environment/property[@name='ambientInsideSkyScale']/@value">.4,.16</set>
+	<set xpath="worldglobal/environment/property[@name='ambientInsideEquatorScale']/@value">.48,.61</set>
+	<!-- <set xpath="worldglobal/environment/property[@name='ambientInsideEquator']/@value">.48,.51</set> -->
+	<set xpath="worldglobal/environment/property[@name='ambientInsideGroundScale']/@value">.038,.13</set>
+	<!-- <set xpath="worldglobal/environment/property[@name='ambientInsideGround']/@value">.03,.055</set> -->
+	<set xpath="worldglobal/environment/property[@name='ambientInsideSkyScale']/@value">.41,.22</set>
+	<!-- <set xpath="worldglobal/environment/property[@name='ambientInsideSky']/@value">.4,.16</set> -->
 
 </configs>
