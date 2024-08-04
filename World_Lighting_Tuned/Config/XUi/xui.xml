@@ -1,5 +1,5 @@
 <World_Lighting_Tuned>
      <append xpath="//window_group[@name='toolbelt']">
-          <window name="wltSunglasses" anchor="CenterCenter" />
+          <window name="wltHighPass" anchor="CenterCenter" />
      </append>
 </World_Lighting_Tuned>
